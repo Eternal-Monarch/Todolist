@@ -18,4 +18,15 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Alt Text](https://github.com/Eternal-Monarch/Todolist/blob/master/to%20dlo%20list%20.png)
 
+![Alt Text](https://github.com/Eternal-Monarch/Todolist/blob/master/add%20the%20task.png)
+
+![Alt Text](https://github.com/Eternal-Monarch/Todolist/blob/master/add%20the%20task%20.png)
+
+![Alt Text](https://github.com/Eternal-Monarch/Todolist/blob/master/delete%20the%20task%20.png)
+
+
+
+
+
+
 
